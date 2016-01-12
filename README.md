@@ -27,8 +27,11 @@ If you worked on task 4.2.3 for 2 hours, your commit message would be:
 After a successfull commit, a file named timesheet.txt will be created on your dekstop in following format:
 
 Monday: 3.1 - 1 hours
+
 Monday: 6.4 - 1 hours
+
 Monday: 6.3 - 2 hours
+
 Tuesday: 4.4 - 1 hours
 
 
