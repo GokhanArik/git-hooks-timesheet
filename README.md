@@ -11,6 +11,7 @@ Make sure it is executable.
 It recognizes patterns in following formats:
 
 "(StoryNumber).(TaskNumber) - (HoursWorked) Commmit message"
+
 "(EpicNumber).(StoryNumber).(TaskNumber) - (HoursWorked) Commmit message"
 
 For example,
